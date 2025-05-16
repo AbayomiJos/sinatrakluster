@@ -1,0 +1,6 @@
+# filepath: /Users/Abayomi/Desktop/EKS-Terraform/.gitignore
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.log
